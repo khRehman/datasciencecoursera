@@ -1,2 +1,0 @@
-# datasciencecoursera
-my project repo
